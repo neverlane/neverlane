@@ -1,10 +1,14 @@
-# neverlane config files
+# neverlane
 
-## SAMP
+## about
 
-### Arizona RP
+i’m currently learning TypeScript and С++
 
-Server List -> [lua](https://github.com/neverlane/neverlane/blob/master/samp/arz/serverlist.lua), [ini](https://github.com/neverlane/neverlane/blob/master/samp/arz/serverlist.ini), [json](https://github.com/neverlane/neverlane/blob/master/samp/arz/serverlist.json)
+how to reach me: [telegram](https://t.me/neverlane)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neverlane&show_icons=true&theme=github_dark)
+
+same files: [arizona rp samp server list](https://github.com/neverlane/neverlane/blob/master/samp/arz/)
 
 <!--
 **neverlane/neverlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
