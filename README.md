@@ -1,26 +1,22 @@
 # neverlane
 
-## about
+### About
+ * i’m currently learning TypeScript and С++
+ * since June 2022, I have spent [![wakatime](https://wakatime.com/badge/user/4b74d795-1e0e-43cf-b84d-79752949c562.svg)](https://wakatime.com/@4b74d795-1e0e-43cf-b84d-79752949c562) writing code
+ * how to reach me: [telegram](https://t.me/neverlane)
 
-i’m currently learning TypeScript and С++
+### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=neverlane&show_icons=true&theme=github_dark" width="400px">
 
-how to reach me: [telegram](https://t.me/neverlane)
+### Wakatime Stats
+<a href="https://wakatime.com/@neverlane">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=neverlane&show_icons=true&theme=github_dark" width="400px" alt="neverlane: статистика Wakatime"></code>
+</a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neverlane&show_icons=true&theme=github_dark)
+### Music
+<a href="https://open.spotify.com/user/oqt28qhuzqav6ov09ilhbfzae?si=38b6869ad8c84708">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=oqt28qhuzqav6ov09ilhbfzae" width="400px"></img>
+</a>
 
-same files: [arizona rp samp server list](https://github.com/neverlane/neverlane/blob/master/samp/arz/)
-
-<!--
-**neverlane/neverlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some files
+[arizona rp samp server list](https://github.com/neverlane/neverlane/blob/master/samp/arz/)
