@@ -16,7 +16,8 @@
 2. [`kodikwrapper`](https://github.com/thedvxchsquad/kodikwrapper) - [kodik api](https://bd.kodik.biz/api/info) wrapper for **node.js** and **browser**
 3. [`reactlab-bypass`](https://github.com/neverlane/reactlab-bypass) - bypass reactlab antiddos protection
 4. [`nowscbot`](https://github.com/neverlane/nowscbot) - shows and send your [soundcloud](https://soundcloud.com) history in telegram inline query
-5. [`moon-tabler-icons`](https://github.com/neverlane/moon-tabler-icons) - [tabler-icons](https://github.com/tabler/tabler-icons) for moonloader(lua)
+5. [`node-snet`](https://github.com/neverlane/node-snet) - port luajit snet for node
+6. [`moon-tabler-icons`](https://github.com/neverlane/moon-tabler-icons) - [tabler-icons](https://github.com/tabler/tabler-icons) for moonloader(lua)
 
 ## contact
 
