@@ -12,7 +12,7 @@
 
 ## projects
 
-1. [`tomori`](https://github.com/neverlane/tomori) - [shikimori api](https://shikimori.one/api/doc) wrapper for **node.js** and **browser**
+1. [`shikimori`](https://github.com/neverlane/shikimori) - [shikimori api](https://shikimori.one/api/doc) wrapper for **node.js** and **browser**
 2. [`kodikwrapper`](https://github.com/thedvxchsquad/kodikwrapper) - [kodik api](https://bd.kodik.biz/api/info) wrapper for **node.js** and **browser**
 3. [`reactlab-bypass`](https://github.com/neverlane/reactlab-bypass) - bypass reactlab antiddos protection
 4. [`nowscbot`](https://github.com/neverlane/nowscbot) - shows and send your [soundcloud](https://soundcloud.com) history in telegram inline query
