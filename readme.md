@@ -1,6 +1,6 @@
 <img align='right' src='https://i.imgur.com/ZWz4fau.jpeg' alt='kawaii' width='200px'/>
 
-## 👋 hello, im neverlane
+## 👋 hello, im neverlane 
 
 17 yo typescript developer, living in Belarus
 
@@ -9,6 +9,7 @@
 - love typescript so much
 - love danya petroff
 - love miss deadlines
+- да я люблю сосать член
 
 ## projects
 
