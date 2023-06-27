@@ -2,7 +2,7 @@
 
 ## 👋 hello, im neverlane 
 
-17 yo typescript developer, living in Belarus
+старый yo typescript developer, living in Belarus
 
 #### facts
 - love anime and manga
