@@ -1,15 +1,13 @@
-<img align='right' src='https://i.imgur.com/ZWz4fau.jpeg' alt='kawaii' width='200px'/>
+<img align='right' src='https://static.neverlane.one/images/photo-201248155_457246728.jpg' alt='kawaii' width='260px'/>
 
 ## 👋 hello, im neverlane 
 
-старый yo typescript developer, living in Belarus
+18 yo typescript developer, living in Belarus
 
-#### facts
-- love anime and manga
-- love typescript so much
-- love danya petroff
-- love miss deadlines
-- да я люблю сосать член
+### facts
+* i
+* love
+* cats
 
 ## projects
 
@@ -19,6 +17,14 @@
 4. [`nowscbot`](https://github.com/neverlane/nowscbot) - shows and send your [soundcloud](https://soundcloud.com) history in telegram inline query
 5. [`node-snet`](https://github.com/neverlane/node-snet) - port luajit snet for node
 6. [`moon-tabler-icons`](https://github.com/neverlane/moon-tabler-icons) - [tabler-icons](https://github.com/tabler/tabler-icons) for moonloader(lua)
+
+## skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,bash,linux,nginx,html,css,js,ts,react,nextjs,nestjs,tailwind,styledcomponents,postgres,redis,redux,vite,vscode,figma,photoshop,nodejs,deno,lua&perline=8" />
+  </a>
+</p>
 
 ## contact
 
