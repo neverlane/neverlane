@@ -1,8 +1,10 @@
-<img align='right' src='https://static.neverlane.one/images/photo-201248155_457246728.jpg' alt='kawaii' width='260px'/>
+<img align='right' src='https://static.neverlane.one/images/a56629246d938af2c5c2858252fea0c6.jpg' alt='kawaii' width='160px'/>
 
 ## 👋 hello, im neverlane 
 
 18 yo typescript developer, living in Belarus
+
+head of [thedvxchsquad](https://github.com/thedvxchsquad), maintainer of [better samp](https://github.com/better-samp) 
 
 ### facts
 * i
@@ -14,9 +16,8 @@
 1. [`shikimori`](https://github.com/neverlane/shikimori) - [shikimori api](https://shikimori.one/api/doc) wrapper for **node.js** and **browser**
 2. [`kodikwrapper`](https://github.com/thedvxchsquad/kodikwrapper) - [kodik api](https://bd.kodik.biz/api/info) wrapper for **node.js** and **browser**
 3. [`reactlab-bypass`](https://github.com/neverlane/reactlab-bypass) - bypass reactlab antiddos protection
-4. [`nowscbot`](https://github.com/neverlane/nowscbot) - shows and send your [soundcloud](https://soundcloud.com) history in telegram inline query
-5. [`node-snet`](https://github.com/neverlane/node-snet) - port luajit snet for node
-6. [`moon-tabler-icons`](https://github.com/neverlane/moon-tabler-icons) - [tabler-icons](https://github.com/tabler/tabler-icons) for moonloader(lua)
+4. [`node-snet`](https://github.com/neverlane/node-snet) - port luajit snet for node
+5. [`moon-tabler-icons`](https://github.com/neverlane/moon-tabler-icons) - [tabler-icons](https://github.com/tabler/tabler-icons) for moonloader(lua)
 
 ## skills
 
