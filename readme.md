@@ -1,6 +1,6 @@
-<img align='right' src='https://i.imgur.com/jJsLJpL.png' alt='kawaii' width='160px'/>
+<img src='https://i.imgur.com/duCT8DV.jpeg' alt='kawaii' width='100%' height='280px'/>
 
-## 👋 sata andagi
+## 👋 omagah
 
 18 yo typescript developer
 
