@@ -4,10 +4,7 @@
 
 18 yo typescript developer
 
-head of [thedvxchsquad](https://github.com/thedvxchsquad), maintainer of [better samp](https://github.com/better-samp) 
-
-### 📃 facts
-* я бухаю так, что я падаю со стула
+head of [thedvxchsquad](https://github.com/thedvxchsquad), maintainer of [better samp](https://github.com/better-samp) (dead...?) 
 
 ## 😼 my awesome projects
 
