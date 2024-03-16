@@ -20,5 +20,5 @@ telegram: [**@neverlane**](https://neverlane.t.me/)
 
 vk (you can be ignored): [**@neverlane**](https://vk.com/neverlane)
 
-email: [**hello@neverlane.one**](mailto:hello@neverlane.one)
+email: [**lane@dvxchsquad.dev**](mailto:lane@dvxchsquad.dev)
 
